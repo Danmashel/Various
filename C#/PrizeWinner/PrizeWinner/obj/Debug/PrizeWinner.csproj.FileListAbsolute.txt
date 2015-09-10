@@ -1,0 +1,9 @@
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\bin\Debug\PrizeWinner.exe.config
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\bin\Debug\PrizeWinner.exe
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\bin\Debug\PrizeWinner.pdb
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\obj\Debug\PrizeWinner.csprojResolveAssemblyReference.cache
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\obj\Debug\PrizeWinner.Form1.resources
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\obj\Debug\PrizeWinner.Properties.Resources.resources
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\obj\Debug\PrizeWinner.csproj.GenerateResource.Cache
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\obj\Debug\PrizeWinner.exe
+p:\visual studio 2013\Projects\PrizeWinner\PrizeWinner\obj\Debug\PrizeWinner.pdb
