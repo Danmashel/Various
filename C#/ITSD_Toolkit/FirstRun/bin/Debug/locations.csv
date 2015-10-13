@@ -1,0 +1,6 @@
+Location, Backup Server Path, Software Server path, Domain\Username, Password, WSUS Server IP, WSUS Port
+
+Location 1,Not Set,Not Set,Not Set,,Not Set,Not Set
+Location 2,Not Set,Not Set,Not Set,,Not Set,Not Set
+Location 3,Not Set,Not Set,Not Set,,Not Set,8530
+Location 4,Not Set,Not Set,Not Set,,Not Set,Not Set

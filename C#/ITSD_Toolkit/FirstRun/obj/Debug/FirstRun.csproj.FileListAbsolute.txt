@@ -1,0 +1,9 @@
+p:\visual studio 2013\Projects\FirstRun\FirstRun\bin\Debug\FirstRun.exe.config
+p:\visual studio 2013\Projects\FirstRun\FirstRun\bin\Debug\FirstRun.exe
+p:\visual studio 2013\Projects\FirstRun\FirstRun\bin\Debug\FirstRun.pdb
+p:\visual studio 2013\Projects\FirstRun\FirstRun\obj\Debug\FirstRun.csprojResolveAssemblyReference.cache
+p:\visual studio 2013\Projects\FirstRun\FirstRun\obj\Debug\FirstRun.Form1.resources
+p:\visual studio 2013\Projects\FirstRun\FirstRun\obj\Debug\FirstRun.Properties.Resources.resources
+p:\visual studio 2013\Projects\FirstRun\FirstRun\obj\Debug\FirstRun.csproj.GenerateResource.Cache
+p:\visual studio 2013\Projects\FirstRun\FirstRun\obj\Debug\FirstRun.exe
+p:\visual studio 2013\Projects\FirstRun\FirstRun\obj\Debug\FirstRun.pdb
