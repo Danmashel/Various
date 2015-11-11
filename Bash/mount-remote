@@ -1,0 +1,19 @@
+#!/bin/bash
+#This script used to mount remote SSH locations over SSHFS
+echo "Remote host address(abc@xyz.com): "
+read host
+
+echo "Remote mount point:"
+read remote_mount_point
+
+echo "Key file location:"
+read key
+
+echo "Attempting to mount now..."
+
+if [ ! -z "$host" ] && [ ! -z "remote_mount_point" ] && [ ! -z "$key" ]; then
+	mkdir -p "/media/$host"
+	eval "sshfs $host:$remote_mount_point /media/$host -o IdentityFile=$key"
+fi
+
+echo "done"
